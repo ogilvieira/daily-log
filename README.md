@@ -1,3 +1,6 @@
+# 31 oct
+Watched a video about [Error handling com JavaScript e Promises](https://www.youtube.com/watch?v=ZgWyha2d6iY)
+
 # 30 oct
 Creating my personal wordpress modern workflow
 
