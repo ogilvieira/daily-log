@@ -1,5 +1,7 @@
 # 31 oct
-Watched a video about [Error handling com JavaScript e Promises](https://www.youtube.com/watch?v=ZgWyha2d6iY)
+Listen a DevNaEstrada podcast episode [DNE 77 - PotHix](http://devnaestrada.com.br/2016/10/28/pothix.html)
+
+Watch a video about [Error handling com JavaScript e Promises](https://www.youtube.com/watch?v=ZgWyha2d6iY)
 
 # 30 oct
 Creating my personal wordpress modern workflow
