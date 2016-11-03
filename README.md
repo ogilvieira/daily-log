@@ -1,3 +1,10 @@
+# 2 nov 16
+* I'm finished my game [Não Cuspa no Gato](http://ogilvieira.com.br/nao-cuspa-no-gato/);
+
+# 1 nov 16
+* Work on my portfolio
+* Initi a browser game project
+
 # 31 oct 16
 * Listen a DevNaEstrada podcast episode [DNE 77 - PotHix](http://devnaestrada.com.br/2016/10/28/pothix.html)
 * Watch a video about [Error handling com JavaScript e Promises](https://www.youtube.com/watch?v=ZgWyha2d6iY)
